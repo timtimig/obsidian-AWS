@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "4a54aa7547be50c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "400dceacfc2ee614",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90dda910a7f8522d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Associate Developer/Tech Essentials/ELB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8b868973c90e908",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ef76b16f386819b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17208bf7b9edef6d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a42cf5b953452216",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d560598c46b5fa71",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1c2c3899a7b18da1",
+    "type": "split",
+    "children": [
+      {
+        "id": "66792d1d5a4ad787",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40c100d775bda3cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Associate Developer/Tech Essentials/ELB.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43626e3c4e0dfeb7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Associate Developer/Tech Essentials/ELB.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c3683779ff90c3f0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "34eb25024b2e8b09",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Associate Developer/Tech Essentials/ELB.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "90dda910a7f8522d",
+  "lastOpenFiles": [
+    "Associate Developer/Tech Essentials/7.0 Availability.md",
+    "Associate Developer/Tech Essentials/ELB.md",
+    "Associate Developer/Tech Essentials/6.0. Monitoring.md",
+    "Associate Developer/Tech Essentials/EC2.md",
+    "Associate Developer/Tech Essentials/ECS.md",
+    "Associate Developer/Tech Essentials/5.0. Databases.md",
+    "Associate Developer/Tech Essentials/Fargate.md",
+    "Associate Developer/Tech Essentials/DynamoDB.md",
+    "Associate Developer/Tech Essentials/EBS.md",
+    "Associate Developer/Tech Essentials/RDS.md",
+    "Associate Developer/Tech Essentials/Instance store and EBS.md",
+    "Associate Developer/Tech Essentials/4.0 Storage.md",
+    "Associate Developer/Tech Essentials/3.0 Compute.md",
+    "Associate Developer/Tech Essentials/EKS.md",
+    "Associate Developer/Tech Essentials/Untitled",
+    "Associate Developer/Tech Essentials/FSx.md",
+    "Associate Developer/Tech Essentials/EFS.md",
+    "Associate Developer/Tech Essentials/Instance lifecycle.md",
+    "Associate Developer/Tech Essentials/S3.md",
+    "Associate Developer/Tech Essentials/IAM.md",
+    "Associate Developer/Tech Essentials/4.0 Network.md",
+    "Associate Developer/Tech Essentials/VPS Security.md",
+    "Associate Developer/Tech Essentials/VPS Routing.md",
+    "Associate Developer/Tech Essentials/Availability Zone.md",
+    "Associate Developer/Tech Essentials/1.0 AWS Infrastructure.md",
+    "Associate Developer/Tech Essentials/Lambda.md",
+    "Associate Developer/Tech Essentials/Serverless.md",
+    "Associate Developer/Tech Essentials",
+    "Associate Developer"
+  ]
+}

@@ -1,0 +1,2 @@
+Edge locations are global locations where content is cached. Currently, there are over 400+ edge locations globally.
+Amazon CloudFront delivers your content through a worldwide network of edge locations. When a user requests content that is being served with CloudFront, the request is routed to the location that provides the lowest latency.
