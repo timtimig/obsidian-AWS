@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d73393ebdc8d7404",
+        "id": "e43c097c76be0033",
         "type": "tabs",
         "children": [
           {
-            "id": "5a9427dc21a57ef1",
+            "id": "904a8610da97aed8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Associate Developer/Tech Essentials/ELB.md",
+                "file": "Associate Developer/Tech Essentials/EC2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Associate Developer/Tech Essentials/ELB.md",
+                "file": "Associate Developer/Tech Essentials/EC2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Associate Developer/Tech Essentials/ELB.md",
+                "file": "Associate Developer/Tech Essentials/EC2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Associate Developer/Tech Essentials/ELB.md"
+                "file": "Associate Developer/Tech Essentials/EC2.md"
               }
             }
           }
@@ -146,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a9427dc21a57ef1",
+  "active": "904a8610da97aed8",
   "lastOpenFiles": [
-    "Associate Developer/Tech Essentials/EC2 Auto Scaling.md",
+    "Associate Developer/Tech Essentials/EBS.md",
     "Associate Developer/Tech Essentials/ELB.md",
+    "Associate Developer/Tech Essentials/EC2.md",
+    "Associate Developer/Tech Essentials/EC2 Auto Scaling.md",
     "Associate Developer/Tech Essentials/7.0 Availability.md",
     "Associate Developer/Tech Essentials/Availability Zone.md",
     "Associate Developer/Tech Essentials/5.0. Databases.md",
@@ -158,11 +160,9 @@
     "Associate Developer/Tech Essentials/2.0 Security.md",
     "Associate Developer/Tech Essentials/1.0 AWS Infrastructure.md",
     "Associate Developer/Tech Essentials/6.0. Monitoring.md",
-    "Associate Developer/Tech Essentials/EC2.md",
     "Associate Developer/Tech Essentials/ECS.md",
     "Associate Developer/Tech Essentials/Fargate.md",
     "Associate Developer/Tech Essentials/DynamoDB.md",
-    "Associate Developer/Tech Essentials/EBS.md",
     "Associate Developer/Tech Essentials/RDS.md",
     "Associate Developer/Tech Essentials/Instance store and EBS.md",
     "Associate Developer/Tech Essentials/3.0 Compute.md",
