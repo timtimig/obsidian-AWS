@@ -148,9 +148,11 @@
   },
   "active": "904a8610da97aed8",
   "lastOpenFiles": [
+    "Associate Developer/Tech Essentials/3.0 Compute.md",
+    "Associate Developer/Tech Essentials/Pricing.md",
+    "Associate Developer/Tech Essentials/EC2.md",
     "Associate Developer/Tech Essentials/EBS.md",
     "Associate Developer/Tech Essentials/ELB.md",
-    "Associate Developer/Tech Essentials/EC2.md",
     "Associate Developer/Tech Essentials/EC2 Auto Scaling.md",
     "Associate Developer/Tech Essentials/7.0 Availability.md",
     "Associate Developer/Tech Essentials/Availability Zone.md",
@@ -165,7 +167,6 @@
     "Associate Developer/Tech Essentials/DynamoDB.md",
     "Associate Developer/Tech Essentials/RDS.md",
     "Associate Developer/Tech Essentials/Instance store and EBS.md",
-    "Associate Developer/Tech Essentials/3.0 Compute.md",
     "Associate Developer/Tech Essentials/EKS.md",
     "Associate Developer/Tech Essentials/Untitled",
     "Associate Developer/Tech Essentials/FSx.md",
@@ -174,7 +175,6 @@
     "Associate Developer/Tech Essentials/S3.md",
     "Associate Developer/Tech Essentials/IAM.md",
     "Associate Developer/Tech Essentials/VPS Security.md",
-    "Associate Developer/Tech Essentials/VPS Routing.md",
     "Associate Developer/Tech Essentials",
     "Associate Developer"
   ]
