@@ -17,10 +17,8 @@ The ELB service is made up of three main components: rules, listeners, and targe
 **Listener**. The client connects to the listener. To define a listener, a port must be provided in addition to the protocol. There can be many listeners for a single load balancer.
 
 **Target group**. Resources are defined in one or more target groups. This is where you define the type of backend you want to direct traffic to, such as EC2 instances, Lambda functions, or IP addresses. Also, a health check must be defined for each target group.
-
 #### Types of load balancers
 We will cover three types of load balancers: Application Load Balancer (ALB), Network Load Balancer (NLB), and Gateway Load Balancer (GLB).
-
 ###### Application Load Balancer
 It functions at Layer 7 of the OSI model. It's ideal for load balancing HTTP and HTTPS traffic. Key features:
 - routes traffic based on request data: paths, hosts, headers and methods, source IP.
