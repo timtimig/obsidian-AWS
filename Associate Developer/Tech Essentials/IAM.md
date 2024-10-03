@@ -31,4 +31,7 @@ It sets the maximum permissions that the entity can have. This can change the ef
 - apply policies to groups
 - use the principal of least privilege
 
+Links:
+[[STS]]
+
 #IAM

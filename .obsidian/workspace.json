@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Associate Developer/Tech Essentials/IAM.md",
+                "file": "Associate Developer/Tech Essentials/S3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Associate Developer/Tech Essentials/IAM.md",
+                "file": "Associate Developer/Tech Essentials/S3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Associate Developer/Tech Essentials/IAM.md",
+                "file": "Associate Developer/Tech Essentials/S3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Associate Developer/Tech Essentials/IAM.md"
+                "file": "Associate Developer/Tech Essentials/S3.md"
               }
             }
           }
@@ -148,13 +148,14 @@
   },
   "active": "904a8610da97aed8",
   "lastOpenFiles": [
-    "Associate Developer/Tech Essentials/2.0 Security.md",
-    "Associate Developer/Tech Essentials/S3.md",
-    "Associate Developer/Tech Essentials/IAM.md",
-    "Associate Developer/Tech Essentials/ELB.md",
-    "Associate Developer/Tech Essentials/EBS.md",
     "Associate Developer/Tech Essentials/4.0 Storage.md",
     "Associate Developer/Tech Essentials/Instance store and EBS.md",
+    "Associate Developer/Tech Essentials/S3.md",
+    "Associate Developer/Tech Essentials/IAM.md",
+    "Associate Developer/Tech Essentials/STS.md",
+    "Associate Developer/Tech Essentials/2.0 Security.md",
+    "Associate Developer/Tech Essentials/ELB.md",
+    "Associate Developer/Tech Essentials/EBS.md",
     "Associate Developer/Tech Essentials/4.0 Network.md",
     "Associate Developer/Tech Essentials/6.0. Monitoring.md",
     "Associate Developer/Tech Essentials/EC2.md",
@@ -174,7 +175,6 @@
     "Associate Developer/Tech Essentials/FSx.md",
     "Associate Developer/Tech Essentials/EFS.md",
     "Associate Developer/Tech Essentials/Instance lifecycle.md",
-    "Associate Developer/Tech Essentials/VPS Security.md",
     "Associate Developer/Tech Essentials",
     "Associate Developer"
   ]
